@@ -18,6 +18,3 @@ This app lets users add, delete, and mark tasks as completed.
 - HTML
 - CSS
 - JavaScript
-
-## 📸 Screenshot
-![App Screenshot](screenshot.png)
