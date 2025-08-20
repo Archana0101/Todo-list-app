@@ -12,7 +12,7 @@ This app lets users add, delete, and mark tasks as completed.
 - Responsive and clean design  
 
 ## 🌐 Live Demo
-👉 [Click here to try the app](https://yourusername.github.io/todo-list-app/)
+👉 [Click here to try the app](https://archana0101.github.io/Todo-list-app/)
 
 ## 🛠️ Technologies Used
 - HTML
